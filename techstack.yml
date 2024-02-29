@@ -2,7 +2,7 @@ repo_name: 2lambda123/contact_point_estimation
 report_id: df03213ec2e9dff7588ab7cfbf47a4fd
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:57:29+00:00'
+timestamp: '2024-02-29T19:17:11+00:00'
 requested_by: 2lambda123
 provider: github
 branch: groovy-devel
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/contact_point_estimation
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
